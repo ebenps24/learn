@@ -310,5 +310,3 @@ def fightc():
 
 
 
-# ------------ Start Execution -------------
-play_game()
